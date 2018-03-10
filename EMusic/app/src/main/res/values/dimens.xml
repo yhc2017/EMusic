@@ -1,0 +1,28 @@
+<resources>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+
+    <dimen name="text_onlineleft_modle">7dp</dimen>
+    <dimen name="text_onlineright_modle">2dp</dimen>
+    <dimen name="text_online_modle">15dp</dimen>
+    <dimen name="text_online_songwidth_modle">75dp</dimen>
+    <dimen name="text_online_singerwidth_modle">30dp</dimen>
+    <dimen name="text_online_song_modle">5pt</dimen>
+    <dimen name="text_online_singer_modle">4pt</dimen>
+    <!--home_page_modle_mine-->
+    <dimen name="modle_mine_top">10dp</dimen>
+    <!--include_play_bar.xml-->
+    <dimen name="play_bar_height">50dp</dimen>
+    <dimen name="text_size_common">16sp</dimen>
+    <!--类似recyclerview的item的高度-->
+    <dimen name="re_view_item_hight">50dp</dimen>
+    <dimen name="re_view_item_top_hight">10dp</dimen>
+    <!--列表的字体大小-->
+    <dimen name="font_size_17">17sp</dimen>
+    <dimen name="font_size_18">18sp</dimen>
+    <dimen name="font_size_19">19sp</dimen>
+    <dimen name="font_size_20">20sp</dimen>
+    <dimen name="font_size_21">21sp</dimen>
+</resources>

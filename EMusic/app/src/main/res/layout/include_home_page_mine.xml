@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/modle_mine_view"
+    android:layout_width="320dp"
+    android:layout_height="120dp"
+    android:layout_marginTop="@dimen/modle_mine_top"
+    android:layout_gravity="center_horizontal"
+    app:cardBackgroundColor="@color/colorAccent"
+    app:cardCornerRadius="3dp"
+    app:cardElevation="3dp"
+    app:contentPadding="16dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <com.music.ych.util.RoundImageView
+            android:id="@+id/roundImageView"
+            android:layout_width="53dp"
+            android:layout_height="53dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="5dp"
+            android:src="@drawable/test1"/>
+        <TextView
+            android:layout_gravity="center"
+            android:layout_marginTop="3dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="huahua"
+            android:textColor="@color/colorAccentFont"/>
+
+    </LinearLayout>
+</android.support.v7.widget.CardView>

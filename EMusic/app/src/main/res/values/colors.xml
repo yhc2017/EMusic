@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--原来的app基色-->
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <!--<color name="colorPrimaryDark">#303F9F</color>-->
+    <!--<color name="colorAccent">#FF4081</color>-->
+    <!--PrimaryColor-->
+    <color name="colorPrimary">#5e5fcb</color>
+    <color name="colorPrimaryDark">#5e5fcb</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="colorBackground">#eceff6</color>
+    <!--FontColor-->
+    <color name="colorPrimaryFont">#ffffff</color>
+    <color name="colorGeneralFont">#000000</color>
+    <color name="colorAccentFont">#5e5fcb</color>
+    <color name="colorSecondaryFont">#cbced6</color>
+    <color name="colorThirdlyFont">#aaa297</color>
+    <color name="colorTopFont">#ff0000</color>
+    <!--ModuleColor-->
+    <color name="colorPersonalTailoModule">#8ab869</color>
+    <color name="colorLocalMusicModule">#ffc670</color>
+    <color name="colorPersonalHistoryModule">#f86670</color>
+    <color name="colorOnLineMusicModule">#48a69e</color>
+</resources>
